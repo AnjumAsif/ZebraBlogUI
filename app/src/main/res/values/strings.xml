@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="app_title">Zebra</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="action_search">Search</string>
+    <string name="comedy">Comedy</string>
+    <string name="art_amp_experimental"><![CDATA[Art & Experimental]]></string>
+    <string name="news_amp_politics"><![CDATA[News & Politics]]></string>
+    <string name="health_amp_fitness"><![CDATA[Health & Fitness]]></string>
+    <string name="beauty_amp_fashion"><![CDATA[Beauty & Fashion]]></string>
+    <string name="family">Family</string>
+    <string name="sports">Sports</string>
+    <string name="pets_amp_animals"><![CDATA[Pets & Animals]]></string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="movies">Movies</string>
+    <string name="books">Books</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">cancel</string>
+    <string name="msg_logout">Are you sure want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="top_msg">Chocolate Ding Dessert Jelly Fruit cake Tart Jelly Waffer.
+    </string>
+    <string name="published_date">Posted on October 4, 2013 by Sachin Tendulkar</string>
+    <string name="bottom_msg">
+        Chocolate Ding Dessert Jelly Fruit cake Tart Jelly Waffer. Chocolate Ding Dessert Jelly Fruit cake Tart Jelly
+        Waffer.Chocolate Ding Dessert Jelly Fruit cake Tart Jelly Waffer.
+    </string>
+    <string name="latest">LATEST</string>
+    <string name="popular">POPULAR</string>
+    <string name="body_msg_1">Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes
+        gingerbread caramels cake. Macaroon applicake gummi bears jelly marzipan…\n\n
+    </string>
+    <string name="body_msg_2">A Subtitle can go here if it makes things easier.\n\n</string>
+    <string name="body_msg_3">Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes
+        gingerbread caramels cake.\n\n
+    </string>
+    <string name="body_msg_4">Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes
+        gingerbread caramels cake.\n\n
+    </string>
+    <string name="body_msg_5">Dessert brownie macaroon.</string>
+    <string name="body_msg_6">Dessert brownie macaroon. Marshmallow ice cream macaroon cake. Dessert jelly beans candy
+        cookie. Bear claw candy canes gingerbread caramels cake.\n
+    </string>
+    <string name="body_msg_7">Cromic brownie macaroon. Marshmallow ice cream macaroon cake. Dessert jelly beans candy
+        cookie. Bear claw candy canes gingerbread caramels cake.
+    </string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google+</string>
+    <string name="dudly_marion">Sachin Tendulkar</string>
+    <string name="written_by">Written by</string>
+    <string name="write_your_comment">Write your comment</string>
+    <string name="send">send</string>
+    <string name="user_profile">User Profile</string>
+</resources>

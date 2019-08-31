@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZebraBlogUI.iml" filepath="$PROJECT_DIR$/ZebraBlogUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onboardingactivity/onboardingactivity.iml" filepath="$PROJECT_DIR$/onboardingactivity/onboardingactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onboradingactivity/onboradingactivity.iml" filepath="$PROJECT_DIR$/onboradingactivity/onboradingactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdotsindicator/viewpagerdotsindicator.iml" filepath="$PROJECT_DIR$/viewpagerdotsindicator/viewpagerdotsindicator.iml" />
+    </modules>
+  </component>
+</project>

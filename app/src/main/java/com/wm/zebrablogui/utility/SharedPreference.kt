@@ -9,9 +9,6 @@ class SharedPreference(context: Context) {
         val editor: SharedPreferences.Editor = sharedPref.edit()
         editor.putString(KEY_NAME, status)
         editor.apply()
-
-
-
     }
 
     fun getValueString(KEY_NAME: String): String? {
